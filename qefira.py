@@ -96,5 +96,5 @@ vehicle_scrap('https://www.qefira.com/cars?page=14')
 
 # 1. First change Oct 14, 2022
 
-
+ # 2. Second change Oct 14, 2022
 
