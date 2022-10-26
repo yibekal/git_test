@@ -98,3 +98,4 @@ vehicle_scrap('https://www.qefira.com/cars?page=14')
 
  # 2. Second change Oct 14, 2022
 
+# after bluelabs
